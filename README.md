@@ -71,4 +71,4 @@ public class NewBehaviourScript : MonoBehaviour
 
 
 ## Result:
-Thus, the 3D application for rotating the gaming objects in unity is developed successfully.
+Thus, the 3D application for rotating the gaming objects in unity is developed successfully..
