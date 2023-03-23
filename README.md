@@ -1,5 +1,4 @@
 # Rotating-the-Gaming-Object
-
 ## Aim:
 To develop a 3D application for rotating the gaming objects in unity.
 ## Algorithm:
@@ -68,7 +67,6 @@ public class NewBehaviourScript : MonoBehaviour
 # Output:
 ![OUTPUT-01](IMG-02.jpeg)
 ![OUTPUT-02](IMG-01.jpeg) 
-
 
 ## Result:
 Thus, the 3D application for rotating the gaming objects in unity is developed successfully..
