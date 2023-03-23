@@ -65,7 +65,7 @@ public class NewBehaviourScript : MonoBehaviour
 }
 ```
 
-## Output:
+# Output:
 ![OUTPUT-01](IMG-02.jpeg)
 ![OUTPUT-02](IMG-01.jpeg) 
 
