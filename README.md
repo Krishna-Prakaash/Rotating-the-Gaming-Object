@@ -66,8 +66,8 @@ public class NewBehaviourScript : MonoBehaviour
 ```
 
 ## Output:
-![OUTPUT-01](IMG-01.jpeg)
-![OUTPUT-02](IMG-02.jpeg) 
+![OUTPUT-01](![IMG-01](https://user-images.githubusercontent.com/93427144/227255471-9ca5e77d-f780-49c8-ba24-40b9a526c4e6.jpeg))
+![OUTPUT-02](![IMG-02](https://user-images.githubusercontent.com/93427144/227255547-216baeea-7052-4129-886d-8094bf258645.jpeg)) 
 
 
 ## Result:
